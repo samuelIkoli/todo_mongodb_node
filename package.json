@@ -1,0 +1,26 @@
+{
+  "name": "todo_mongodb_node",
+  "version": "1.0.0",
+  "description": "Zuri",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelIkoli/todo_mongodb_node.git"
+  },
+  "author": "Samuel Ikoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelIkoli/todo_mongodb_node/issues"
+  },
+  "homepage": "https://github.com/samuelIkoli/todo_mongodb_node#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.2"
+  }
+}

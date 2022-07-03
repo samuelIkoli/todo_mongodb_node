@@ -1,0 +1,1 @@
+DB_URL = mongodb+srv://Samuel:Layefanimi07@samcluster0.ezatj.mongodb.net/zuriTodo?retryWrites=true&w=majority
